@@ -1,6 +1,6 @@
 sublime text 3 settings
 
-## packages installed listed as below:
+## installed packages listed as below:
 
 >>1. AdvancedNewFile
 >>2. Anaconda
