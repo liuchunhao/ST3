@@ -24,4 +24,5 @@ sublime text 3 settings
 >>20. TypeScript
 >>21. 1337 Color Scheme
 >>22. Open Folder
+>>23. A File Icon
 
